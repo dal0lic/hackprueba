@@ -1,3 +1,3 @@
 # hackprueba
  
-Esta es la **primer** prueba que se hace. :sparkles:
+Esta es la _**primer**_ prueba que se hace. :sparkles:
